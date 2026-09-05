@@ -1,0 +1,10 @@
+Priya: Thanks everyone. The goal today is to agree on the beta launch approach.
+Sam: The product is ready, but I want a staged rollout so we can monitor API latency.
+Priya: Agreed. We will launch to 10% of users first and expand only after monitoring looks healthy.
+Lee: I will validate the monitoring dashboard before launch.
+Sam: I can prepare the rollout checklist by Friday, September 11.
+Priya: Good. The API latency risk remains open. We have not assigned an owner for that risk yet.
+Lee: Do we need another security review?
+Priya: No new review is required for beta because the existing controls cover this scope.
+Sam: Then I think we are aligned.
+Priya: Yes. We will proceed with the staged beta launch.

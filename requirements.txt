@@ -1,0 +1,6 @@
+streamlit>=1.42
+openai>=1.60
+SQLAlchemy>=2.0
+psycopg[binary]>=3.2
+python-dotenv>=1.0
+pytest>=8.0
